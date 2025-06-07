@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.4+commit.c7e474f2"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/DataLocation.sol": "DataLOc"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/DataLocation.sol": {
+			"keccak256": "0xa2302efee8207472facdec77bd1dba41b422c5627fd4676a65bd0ae82c45a96d",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://49543b14dab50110fa16fa87cb8c12578357420606eede024c9f0099328f4d7e",
+				"dweb:/ipfs/QmYBgMxBGPPNQmrBF5nMq8X8joYpdsCVvTVfzD84AAVNtH"
+			]
+		}
+	},
+	"version": 1
+}
