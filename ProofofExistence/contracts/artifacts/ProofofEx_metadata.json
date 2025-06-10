@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.30+commit.73712a01"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/Pof.sol": "ProofofEx"
+		},
+		"evmVersion": "prague",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/Pof.sol": {
+			"keccak256": "0x2b3cadf9e723150b61c82c1f65fdc8cfc214bb09ccf707e160d67c23a2632a34",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://2df88438deb166345f45b5d0b9789c2a14edf390484e3745be8d8e093d1a3ca9",
+				"dweb:/ipfs/QmR9uYReQHXe3pKvAmNzvtKMVHwGhfpmJCVWoQMew4a5Qj"
+			]
+		}
+	},
+	"version": 1
+}
